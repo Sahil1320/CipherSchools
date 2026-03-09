@@ -113,17 +113,6 @@ Key frontend files:
 ```bash
 git clone https://github.com/Sahil1320/CipherSchools.git
 
-# 📸 Screenshots
-
-1. <img width="1893" height="873" alt="Screenshot 2026-03-10 035953" src="https://github.com/user-attachments/assets/861803b0-ddc3-4d09-a38c-6390870a993b" />
-
-2. <img width="1891" height="867" alt="Screenshot 2026-03-10 031617" src="https://github.com/user-attachments/assets/a7beb26a-7220-4812-aaa5-00ac76c010ca" />
-
-3. <img width="1914" height="867" alt="Screenshot 2026-03-10 031634" src="https://github.com/user-attachments/assets/675f9068-c1f4-484e-9dbe-154f7b2131da" />
-
-4. <img width="1899" height="862" alt="Screenshot 2026-03-10 032309" src="https://github.com/user-attachments/assets/4995f4af-eed0-49b4-b262-8a103f9b5947" />
-
-
 ### Notes
 - The Gemini integration is intentionally constrained to return **hints**, not full SQL solutions, by the prompt engineering in `hintsService`.
 

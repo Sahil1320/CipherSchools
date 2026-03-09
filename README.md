@@ -1,4 +1,4 @@
-## CipherSQLStudio (Educational Implementation)
+## CipherSQLStudio (Assignment)
 
 This repository contains a full-stack **CipherSQLStudio** prototype:
 - **Frontend**: React + Vite with vanilla SCSS, Monaco-based SQL editor, and a mobile-first layout.
@@ -93,7 +93,5 @@ Key frontend files:
 - `src/styles/main.scss` and partials – mobile-first SCSS using variables, mixins, and BEM-like class names.
 
 ### Notes
-
-- The query executor enforces **read-only** access and basic safety checks, but you should still run this only against a dedicated sandbox database.
 - The Gemini integration is intentionally constrained to return **hints**, not full SQL solutions, by the prompt engineering in `hintsService`.
 

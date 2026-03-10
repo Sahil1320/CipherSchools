@@ -4,8 +4,6 @@ This repository contains a full-stack **CipherSQLStudio** prototype:
 - **Frontend**: React + Vite with vanilla SCSS, Monaco-based SQL editor, and a mobile-first layout.
 - **Backend**: Node/Express API with PostgreSQL as a sandbox database, MongoDB for assignments and attempts, and Gemini-based hint generation.
 
-> Note: If you are using this for a take-home assignment, treat this code as a learning reference and rewrite it in your own style to comply with your course/company rules.
-
 ### High-level architecture
 
 - The **React UI** calls the **Express API** via JSON over HTTP.
@@ -113,6 +111,4 @@ Key frontend files:
 ```bash
 git clone https://github.com/Sahil1320/CipherSchools.git
 
-### Notes
-- The Gemini integration is intentionally constrained to return **hints**, not full SQL solutions, by the prompt engineering in `hintsService`.
 
